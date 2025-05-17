@@ -1,4 +1,4 @@
-🚀 Just Launched: Voice-Powered Amazon Product Recommender 🛍️
+ Voice-Powered Amazon Product Recommender 🛍️
 I’m excited to share a project that combines voice recognition, natural language processing (NLP), and similarity search to create a smart product recommendation engine. Here’s a quick overview:
 🔍 What It Does:
 This web app allows users to speak a product description (e.g., “a heavy-duty extension cord”) and receive the top 5 similar products from a large Amazon dataset. I used a 1 million-row Excel file from Kaggle containing Amazon product data to power the recommendations.
